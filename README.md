@@ -7,7 +7,7 @@ Liste des ajouts du mod :
 
 Blocs : 
 - Pierres par types (sédimentaires, ignée intrusives, ignée extrusives, métamorphiques, et autres minerais non-natives)
-- Minerais natives (Kendalium, Phyronium, Primsolaire)
+- Minerais natives (Kendalium, Pyronium, Primsolaire)
 
 Objets :
 - Détecteur de métal (avec minerais regroupé dans un tag)
