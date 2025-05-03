@@ -1,6 +1,7 @@
 package net.phyro.phyromod;
 
 import com.mojang.logging.LogUtils;
+import net.minecraft.world.item.CreativeModeTabs;
 import net.minecraftforge.api.distmarker.Dist;
 import net.minecraftforge.common.MinecraftForge;
 import net.minecraftforge.event.BuildCreativeModeTabContentsEvent;
@@ -12,7 +13,12 @@ import net.minecraftforge.fml.config.ModConfig;
 import net.minecraftforge.fml.event.lifecycle.FMLClientSetupEvent;
 import net.minecraftforge.fml.event.lifecycle.FMLCommonSetupEvent;
 import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
+import net.phyro.phyromod.block.ModBlocks;
+import net.phyro.phyromod.item.ModCreativeModTabs;
+import net.phyro.phyromod.item.ModItems;
 import org.slf4j.Logger;
+
+
 
 // The value here should match an entry in the META-INF/mods.toml file
 @Mod(PhyroMod.MOD_ID)
@@ -24,14 +30,18 @@ public class PhyroMod {
 
     public PhyroMod(FMLJavaModLoadingContext context) {
         IEventBus modEventBus = context.getModEventBus();
+        ModCreativeModTabs.register(modEventBus);
+
+        //Le registre par défaut est enregistré et fait en sorte que les objets du mod sont bien ajoutés.
+        ModItems.register(modEventBus);
+        ModBlocks.register(modEventBus);
 
         modEventBus.addListener(this::commonSetup);
 
 
         MinecraftForge.EVENT_BUS.register(this);
-
         modEventBus.addListener(this::addCreative);
-        context.registerConfig(ModConfig.Type.COMMON, Config.SPEC);
+        //context.registerConfig(ModConfig.Type.COMMON, Config.SPEC);
     }
 
     private void commonSetup(final FMLCommonSetupEvent event)
@@ -40,8 +50,16 @@ public class PhyroMod {
     }
 
     // Add the example block item to the building blocks tab
-    private void addCreative(BuildCreativeModeTabContentsEvent event)
-    {
+    private void addCreative(BuildCreativeModeTabContentsEvent event) {
+        if(event.getTabKey() == CreativeModeTabs.INGREDIENTS) {
+            event.accept(ModItems.KENDALIUM_INGOT);
+            event.accept(ModItems.PYRONIUM_INGOT);
+            event.accept(ModItems.PRIMSOLAR_INGOT);
+            event.accept(ModItems.RAW_KENDALIUM);
+            event.accept(ModItems.RAW_PYRONIUM);
+            event.accept(ModItems.RAW_PRIMSOLAR);
+            event.accept(ModItems.GARNET);
+        }
 
     }
 

@@ -1,0 +1,159 @@
+{
+
+  "item.phyromod.bismuth_ingot": "Bismuth Ingot",
+  "item.phyromod.pyronium_ingot": "Pyronium Ingot",
+  "item.phyromod.kendalium_ingot": "Kendalium Ingot",
+  "item.phyromod.primsolar_ingot": "Primsolar Ingot",
+
+
+  "item.phyromod.raw_kendalium": "Raw Kendalium",
+  "item.phyromod.raw_pyronium": "Raw Pyronium",
+  "item.phyromod.raw_primsolar": "Raw Primsolar",
+
+
+  "item.phyromod.alexandrite": "Alexandrite",
+  "item.phyromod.amber": "Amber",
+  "item.phyromod.aquamarine": "Aquamarine",
+  "item.phyromod.tourmaline": "Tourmaline",
+  "item.phyromod.black_tourmaline": "Black Tourmaline",
+  "item.phyromod.citrine": "Citrine",
+  "item.phyromod.chrysocolla": "Chrysocolla",
+  "item.phyromod.garnet": "Garnet",
+  "item.phyromod.jade": "Jade",
+  "item.phyromod.jasper": "Jasper",
+  "item.phyromod.ruby": "Ruby",
+  "item.phyromod.sapphire": "Sapphire",
+  "item.phyromod.serpentine": "Serpentine",
+  "item.phyromod.pyrite": "Pyrite",
+  "item.phyromod.opal": "Opal",
+  "item.phyromod.smokey_quartz": "Smokey Quartz",
+  "item.phyromod.bloodstone": "Bloodstone",
+  "item.phyromod.moonstone": "Moonstone",
+  "item.phyromod.tiger_eye": "Tiger's Eye",
+
+
+  "item.phyromod.strawberry": "Strawberry",
+
+
+  "item.phyromod.sulfur": "Sulfur",
+
+
+  "item.phyromod.pitcher_plant_dye": "Pitcher Plant Dye",
+  "item.phyromod.torchflower_dye": "Torchflower Dye",
+
+
+  "item.phyromod.metal_detector": "Metal Detector",
+
+
+
+
+
+
+  "block.phyromod.chalk": "Chalk",
+  "block.phyromod.chert": "Chert",
+  "block.phyromod.claystone": "Claystone",
+  "block.phyromod.conglomerate": "Conglomerate",
+  "block.phyromod.dolomite": "Dolomite",
+  "block.phyromod.limestone": "Limestone",
+  "block.phyromod.mudstone": "Mudstone",
+  "block.phyromod.rock_salt": "Rock Salt",
+  "block.phyromod.shale": "Shale",
+  "block.phyromod.siltstone": "Siltstone",
+
+
+  "block.phyromod.gabbro": "Gabbro",
+
+
+  "block.phyromod.dacite": "Dacite",
+  "block.phyromod.rhyolite": "Rhyolite",
+
+
+  "block.phyromod.gneiss": "Gneiss",
+  "block.phyromod.marble": "Marble",
+  "block.phyromod.phyllite": "Phyllite",
+  "block.phyromod.quartzite": "Quartzite",
+  "block.phyromod.schist": "Schist",
+  "block.phyromod.slate": "Slate",
+  "block.phyromod.cummingtonite": "Cummingtonite",
+
+
+  "block.phyromod.polished_limestone": "Polished Limestone",
+
+
+  "block.phyromod.limestone_bricks": "Limestone Bricks",
+
+
+  "block.phyromod.alabaster": "Alabaster",
+  "block.phyromod.alunite": "Alunite",
+  "block.phyromod.anhydrite": "Anhydrite",
+  "block.phyromod.bauxite": "Bauxite",
+  "block.phyromod.bituminous_coal": "Bituminous Coal",
+  "block.phyromod.borax": "Borax",
+  "block.phyromod.brimstone": "Brimstone",
+  "block.phyromod.chromite": "Chromite",
+  "block.phyromod.cinnabar": "Cinnabar",
+  "block.phyromod.cobaltite": "Cobaltite",
+  "block.phyromod.cryolite": "Cryolite",
+  "block.phyromod.graphite": "Graphite",
+  "block.phyromod.gypsum": "Gypsum",
+  "block.phyromod.hornblende": "Hornblende",
+  "block.phyromod.jet": "Jet",
+  "block.phyromod.kaolinite": "Kaolinite",
+  "block.phyromod.kimberlite": "Kimberlite",
+  "block.phyromod.lignite": "Lignite",
+  "block.phyromod.marcasite": "Marcasite",
+  "block.phyromod.mica": "Mica",
+  "block.phyromod.microcline": "Microcline",
+  "block.phyromod.olivine": "Olivine",
+  "block.phyromod.orpiment": "Orpiment",
+  "block.phyromod.orthoclase": "Orthoclase",
+  "block.phyromod.periclase": "Periclase",
+  "block.phyromod.petrified_wood": "Petrified Wood",
+  "block.phyromod.pitchblende": "Pitchblende",
+  "block.phyromod.puddingstone": "Puddingstone",
+  "block.phyromod.pyrolusite": "Pyrolusite",
+  "block.phyromod.realgar": "Realgar",
+  "block.phyromod.rutile": "Rutile",
+  "block.phyromod.saltpeter": "Saltpeter",
+  "block.phyromod.satinspar": "Satinspar",
+  "block.phyromod.selenite": "Selenite",
+  "block.phyromod.stibnite": "Stibnite",
+  "block.phyromod.sylvite": "Sylvite",
+  "block.phyromod.talc": "Talc",
+  "block.phyromod.malachite": "Malachite",
+  "block.phyromod.moldavite": "Moldavite",
+  "block.phyromod.petoskey": "Petoskey",
+  "block.phyromod.rhodochrosite": "Rhodochrosite",
+  "block.phyromod.rhodonite": "Rhodonite",
+  "block.phyromod.sodalite": "Sodalite",
+  "block.phyromod.sugulite": "Sugulite",
+  "block.phyromod.wulfenite": "Wulfenite",
+  "block.phyromod.atlantisine": "Atlantisine",
+  "block.phyromod.autimite": "Autimite",
+  "block.phyromod.cataclys": "Cataclys",
+  "block.phyromod.tetorite": "Tetorite",
+
+
+  "block.phyromod.pyronium_ore": "Pyronium Ore",
+  "block.phyromod.deepslate_pyronium_ore": "Deepslate Pyronium Ore",
+
+
+  "block.phyromod.kendalium_block": "Block of Kendalium",
+  "block.phyromod.pyronium_block": "Block of Pyronium",
+  "block.phyromod.primsolar_block": "Block of Primsolar",
+
+
+  "block.phyromod.raw_kendalium_block": "Block of Raw Kendalium",
+  "block.phyromod.raw_pyronium_block": "Block of Raw Pyronium",
+  "block.phyromod.raw_primsolar_block": "Block of Raw Primsolar",
+
+
+
+
+  "phyromod.gradient.pitcher": "Pitcher Gradient",
+  "phyromod.gradient.torchflower": "Torchflower Gradient",
+
+
+
+  "creativetab.phyromod_tab": "Phyro's Mod"
+}

@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "phyromod:block/primsolar_block"
+    }
+  }
+}
