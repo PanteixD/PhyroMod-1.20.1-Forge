@@ -2,10 +2,12 @@ Ce repo contient un mod que j'ai développer pour Minecraft version 1.20.1 uniqu
 
 
 Liste des ajouts du mod :
+
 Blocs : 
 - Pierres par types (sédimentaires, ignée intrusives, ignée extrusives, métamorphiques, et autres minerais non-natives)
 - Minerais natives (Kendalium, Phyronium, Primsolaire)
-Objets
+
+Objets :
 - Détecteur de métal (avec minerais regroupé dans un tag)
 - Nouveaux gemmes
 - Nouveaux ingots
