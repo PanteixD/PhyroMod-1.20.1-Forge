@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_pyronium_ore": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "phyromod:pyronium_ore"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "phyromod:pyronium_ingot_from_smelting_pyronium_ore"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_pyronium_ore",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "phyromod:pyronium_ingot_from_smelting_pyronium_ore"
+    ]
+  },
+  "sends_telemetry_event": false
+}

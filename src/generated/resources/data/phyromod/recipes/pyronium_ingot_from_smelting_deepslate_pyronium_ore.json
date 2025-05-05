@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.25,
+  "group": "pyronium_ingot",
+  "ingredient": {
+    "item": "phyromod:deepslate_pyronium_ore"
+  },
+  "result": "phyromod:pyronium_ingot"
+}

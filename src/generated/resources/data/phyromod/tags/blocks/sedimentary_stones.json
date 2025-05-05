@@ -1,0 +1,14 @@
+{
+  "values": [
+    "phyromod:chalk",
+    "phyromod:chert",
+    "phyromod:claystone",
+    "phyromod:conglomerate",
+    "phyromod:dolomite",
+    "phyromod:limestone",
+    "phyromod:mudstone",
+    "phyromod:rock_salt",
+    "phyromod:shale",
+    "phyromod:siltstone"
+  ]
+}

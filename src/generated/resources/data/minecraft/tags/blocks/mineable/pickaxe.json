@@ -1,0 +1,8 @@
+{
+  "values": [
+    "#phyromod:sedimentary_stones",
+    "#phyromod:igneous_intrusive_stones",
+    "#phyromod:igneous_extrusive_stones",
+    "#phyromod:metamorphic_stones"
+  ]
+}

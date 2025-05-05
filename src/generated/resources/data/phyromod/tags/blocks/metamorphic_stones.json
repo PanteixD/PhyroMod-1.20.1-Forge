@@ -1,0 +1,10 @@
+{
+  "values": [
+    "phyromod:gneiss",
+    "phyromod:marble",
+    "phyromod:phyllite",
+    "phyromod:quartzite",
+    "phyromod:schist",
+    "phyromod:slate"
+  ]
+}

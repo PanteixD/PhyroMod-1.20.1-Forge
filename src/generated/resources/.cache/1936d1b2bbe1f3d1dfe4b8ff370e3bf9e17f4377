@@ -1,0 +1,7 @@
+// 1.20.1	2025-05-05T09:47:26.0864648	Tags for minecraft:block mod id phyromod
+1856f1d997586232abf83d8851ea8ac5d0d9ba8f data/minecraft/tags/blocks/mineable/pickaxe.json
+b640622f3b5ac5c1af13cb1b772aad8633291a33 data/phyromod/tags/blocks/igneous_extrusive_stones.json
+eeb4e7a5356903fb7017fba7187698358740e2a9 data/phyromod/tags/blocks/igneous_intrusive_stones.json
+c5f8682edc681c547c87a98669ef29f7710d7aec data/phyromod/tags/blocks/metal_detector_ores.json
+4997e435bf77b0da31fdfbb8794ccce072fcf915 data/phyromod/tags/blocks/metamorphic_stones.json
+ad2939c4c2013b828ddbde686030c694a5877c83 data/phyromod/tags/blocks/sedimentary_stones.json

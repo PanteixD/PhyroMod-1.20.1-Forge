@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "phyromod:pyronium_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "phyromod:pyronium_ingot"
+  }
+}
