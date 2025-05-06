@@ -1,4 +1,4 @@
-// 1.20.1	2025-05-05T09:47:26.0788217	Loot Tables
+// 1.20.1	2025-05-06T12:19:26.3670078	Loot Tables
 bdbad44b3d0ea9cd060aef07d1f2b7d7ef739065 data/phyromod/loot_tables/blocks/alabaster.json
 03ca9bcbf0e53a173b05483f8121bc2b71f3671d data/phyromod/loot_tables/blocks/alunite.json
 2a15fb7ef9029cc52836666ba81571ef022d255b data/phyromod/loot_tables/blocks/anhydrite.json
@@ -29,6 +29,15 @@ e74fcb5773b24448ad63e27332ae41878185e6c2 data/phyromod/loot_tables/blocks/hornbl
 3526af7cfaa006f388084e4116e54a41fe0002b1 data/phyromod/loot_tables/blocks/jet.json
 3c7ee927ef7af580b9f3acd84983ce665ad05c8c data/phyromod/loot_tables/blocks/kaolinite.json
 8dcf9c747f6a999ac0669622caad541b9c853330 data/phyromod/loot_tables/blocks/kendalium_block.json
+36373d896277a2bfd6d0c7724d43a9918b1091a4 data/phyromod/loot_tables/blocks/kendalium_button.json
+54e810726297298539f1cc3a3afd7326e17ff7b2 data/phyromod/loot_tables/blocks/kendalium_door.json
+6035c032024a9cde515fcc03d71a746cb2719b91 data/phyromod/loot_tables/blocks/kendalium_fence.json
+b3edaa846c9cbc0bd722e1a5bc493cadbffb8b83 data/phyromod/loot_tables/blocks/kendalium_fence_gate.json
+81b7e10ada5a10fdae34bf3058a21ec52e2a5c02 data/phyromod/loot_tables/blocks/kendalium_pressure_plate.json
+642436b67d02f0a2b6de8ab2b50e043e7ab8be89 data/phyromod/loot_tables/blocks/kendalium_slab.json
+93cc9f2c05381677c0a9ca8305c36cede3464f14 data/phyromod/loot_tables/blocks/kendalium_stairs.json
+264fb2a47515dcdaadbd5d35d0fa6c2e1fb754e5 data/phyromod/loot_tables/blocks/kendalium_trapdoor.json
+42c9c1d1bdf3989e1b84f1829631538138282a64 data/phyromod/loot_tables/blocks/kendalium_wall.json
 6abdfdd498653ddb5bd5a829389113c306b79d0e data/phyromod/loot_tables/blocks/kimberlite.json
 b590c2bfeb020eb015181bf19a865dc620691f2e data/phyromod/loot_tables/blocks/lignite.json
 a61bf61b2722b9f6ef48eee8b9fedcc865d63e5d data/phyromod/loot_tables/blocks/limestone.json

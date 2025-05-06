@@ -149,6 +149,22 @@
 
 
 
+  "block.phyromod.kendalium_stairs": "Kendalium  Stairs",
+  "block.phyromod.kendalium_slab": "Kendalium Slab",
+  "block.phyromod.kendalium_button": "Kendalium Button",
+  "block.phyromod.kendalium_pressure_plate": "Kendalium Pressure Plate",
+  "block.phyromod.kendalium_fence": "Kendalium Fence",
+  "block.phyromod.kendalium_fence_gate": "Kendalium Fence Gate",
+  "block.phyromod.kendalium_wall": "Kendalium Wall",
+  "block.phyromod.kendalium_door": "Kendalium Door",
+  "block.phyromod.kendalium_trapdoor": "Kendalium Trapdoor",
+
+
+
+
+
+
+
 
   "phyromod.gradient.pitcher": "Pitcher Gradient",
   "phyromod.gradient.torchflower": "Torchflower Gradient",

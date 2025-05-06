@@ -1,4 +1,4 @@
-// 1.20.1	2025-05-05T09:47:26.0849395	Item Models: phyromod
+// 1.20.1	2025-05-06T12:19:26.3700095	Item Models: phyromod
 9e0f18fb1087ddc49602bc7974c813a1158ea29d assets/phyromod/models/item/alexandrite.json
 62dc4e930c02abbe56e9c1ab8c325951e5c99674 assets/phyromod/models/item/amber.json
 c6483796b239606414121120c61bfff126192223 assets/phyromod/models/item/aquamarine.json
@@ -10,7 +10,11 @@ b4ec5bc1d11a88e0345d9ffebf61c471b001fdf9 assets/phyromod/models/item/bismuth_ing
 db4320ea5ed662eec0b19c317f35f293ac7d4718 assets/phyromod/models/item/garnet.json
 0adf4f09b179693c2e62b2f91019e2d13232ec09 assets/phyromod/models/item/jade.json
 6204b9126766e1f67e0c069200c0d44b7f05d2a7 assets/phyromod/models/item/jasper.json
+cef54cf57eae69a2b8830e7a61a1cebb3ebc61d2 assets/phyromod/models/item/kendalium_button.json
+d03430bd703d5a65d06a1da25818dab9f6ae3ade assets/phyromod/models/item/kendalium_door.json
+2a0fe9c783fc493fb021c947c8a697ad1f3f6990 assets/phyromod/models/item/kendalium_fence.json
 06b1641dca9864f051afba1b41e5b94fde248b24 assets/phyromod/models/item/kendalium_ingot.json
+374b147bd7b8391d2067ab7027b1f40400d2f335 assets/phyromod/models/item/kendalium_wall.json
 e7b9a91053c0e80cc1e6c1fef6be0ca7cc9b85ef assets/phyromod/models/item/metal_detector.json
 0b4be7209abe698c5b0aec98ac4b3b8e2ff08c0d assets/phyromod/models/item/moonstone.json
 f1de86254246e42341704a9f4c4970abe3384c39 assets/phyromod/models/item/opal.json

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "phyromod:block/kendalium_slab"
+    },
+    "type=double": {
+      "model": "phyromod:block/kendalium_block"
+    },
+    "type=top": {
+      "model": "phyromod:block/kendalium_slab_top"
+    }
+  }
+}

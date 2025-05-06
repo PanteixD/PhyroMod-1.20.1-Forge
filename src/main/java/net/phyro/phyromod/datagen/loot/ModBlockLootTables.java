@@ -10,6 +10,7 @@ import net.minecraft.world.level.storage.loot.entries.LootItem;
 import net.minecraft.world.level.storage.loot.functions.ApplyBonusCount;
 import net.minecraft.world.level.storage.loot.functions.SetItemCountFunction;
 import net.minecraft.world.level.storage.loot.providers.number.UniformGenerator;
+import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.registries.RegistryObject;
 import net.phyro.phyromod.block.ModBlocks;
 import net.phyro.phyromod.item.ModItems;
@@ -102,6 +103,22 @@ public class ModBlockLootTables extends BlockLootSubProvider {
         this.dropSelf(ModBlocks.RAW_KENDALIUM_BLOCK.get());
         this.dropSelf(ModBlocks.RAW_PYRONIUM_BLOCK.get());
         this.dropSelf(ModBlocks.RAW_PRIMSOLAR_BLOCK.get());
+
+
+        this.dropSelf(ModBlocks.KENDALIUM_STAIRS.get());
+        this.dropSelf(ModBlocks.KENDALIUM_BUTTON.get());
+        this.dropSelf(ModBlocks.KENDALIUM_PRESSURE_PLATE.get());
+        this.dropSelf(ModBlocks.KENDALIUM_TRAPDOOR.get());
+        this.dropSelf(ModBlocks.KENDALIUM_FENCE.get());
+        this.dropSelf(ModBlocks.KENDALIUM_FENCE_GATE.get());
+        this.dropSelf(ModBlocks.KENDALIUM_WALL.get());
+
+        this.add(ModBlocks.KENDALIUM_SLAB.get(),
+                block -> createSlabItemTable(ModBlocks.KENDALIUM_SLAB.get()));
+        this.add(ModBlocks.KENDALIUM_DOOR.get(),
+                block -> createDoorTable(ModBlocks.KENDALIUM_DOOR.get()));
+
+
 
         this.add(ModBlocks.PYRONIUM_ORE.get(),
                 block -> createCopperLikeOreDrops(ModBlocks.PYRONIUM_ORE.get(), ModItems.RAW_PYRONIUM.get()));

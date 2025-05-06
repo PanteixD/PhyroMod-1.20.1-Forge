@@ -1,7 +1,10 @@
-// 1.20.1	2025-05-05T09:47:26.0864648	Tags for minecraft:block mod id phyromod
+// 1.20.1	2025-05-06T12:19:26.3725387	Tags for minecraft:block mod id phyromod
+9d24c07758c0bb0d22fe589f5132dc7cac10df7e data/minecraft/tags/blocks/fences.json
+8f8cefaaeac83fdf15f9eebae8b44ae4bd01dfeb data/minecraft/tags/blocks/fence_gates.json
 1856f1d997586232abf83d8851ea8ac5d0d9ba8f data/minecraft/tags/blocks/mineable/pickaxe.json
+3568dd500106d0c5650459be2153f9f4147bd041 data/minecraft/tags/blocks/walls.json
 b640622f3b5ac5c1af13cb1b772aad8633291a33 data/phyromod/tags/blocks/igneous_extrusive_stones.json
 eeb4e7a5356903fb7017fba7187698358740e2a9 data/phyromod/tags/blocks/igneous_intrusive_stones.json
-c5f8682edc681c547c87a98669ef29f7710d7aec data/phyromod/tags/blocks/metal_detector_ores.json
+89cb384b7ffe40c197de7d35fb313192a13547c2 data/phyromod/tags/blocks/metal_detector_ores.json
 4997e435bf77b0da31fdfbb8794ccce072fcf915 data/phyromod/tags/blocks/metamorphic_stones.json
 ad2939c4c2013b828ddbde686030c694a5877c83 data/phyromod/tags/blocks/sedimentary_stones.json

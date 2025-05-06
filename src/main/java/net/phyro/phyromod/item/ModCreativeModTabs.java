@@ -171,6 +171,25 @@ public class ModCreativeModTabs {
                         pOutput.accept(ModBlocks.RAW_KENDALIUM_BLOCK.get());
                         pOutput.accept(ModBlocks.RAW_PYRONIUM_BLOCK.get());
                         pOutput.accept(ModBlocks.RAW_PRIMSOLAR_BLOCK.get());
+
+
+
+
+                        pOutput.accept(ModBlocks.KENDALIUM_TRAPDOOR.get());
+                        pOutput.accept(ModBlocks.KENDALIUM_WALL.get());
+                        pOutput.accept(ModBlocks.KENDALIUM_FENCE_GATE.get());
+                        pOutput.accept(ModBlocks.KENDALIUM_FENCE.get());
+                        pOutput.accept(ModBlocks.KENDALIUM_BUTTON.get());
+                        pOutput.accept(ModBlocks.KENDALIUM_DOOR.get());
+                        pOutput.accept(ModBlocks.KENDALIUM_STAIRS.get());
+                        pOutput.accept(ModBlocks.KENDALIUM_SLAB.get());
+                        pOutput.accept(ModBlocks.KENDALIUM_PRESSURE_PLATE.get());
+
+
+
+
+
+
                     })
                     .build());
 

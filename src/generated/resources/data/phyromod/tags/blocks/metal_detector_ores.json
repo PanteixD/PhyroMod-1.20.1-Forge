@@ -1,6 +1,7 @@
 {
   "values": [
     "phyromod:pyronium_ore",
+    "phyromod:deepslate_pyronium_ore",
     "#forge:ores"
   ]
 }

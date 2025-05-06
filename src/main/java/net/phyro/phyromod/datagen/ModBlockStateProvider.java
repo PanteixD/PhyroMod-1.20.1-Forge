@@ -1,9 +1,10 @@
 package net.phyro.phyromod.datagen;
 
 import net.minecraft.data.PackOutput;
-import net.minecraft.world.level.block.Block;
+import net.minecraft.world.level.block.*;
 import net.minecraftforge.client.model.generators.BlockStateProvider;
 import net.minecraftforge.common.data.ExistingFileHelper;
+import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.registries.RegistryObject;
 import net.phyro.phyromod.PhyroMod;
 import net.phyro.phyromod.block.ModBlocks;
@@ -123,6 +124,25 @@ public class ModBlockStateProvider extends BlockStateProvider {
         blockWithItem(ModBlocks.RAW_KENDALIUM_BLOCK);
         blockWithItem(ModBlocks.RAW_PYRONIUM_BLOCK);
         blockWithItem(ModBlocks.RAW_PRIMSOLAR_BLOCK);
+
+
+
+
+        stairsBlock(((StairBlock) ModBlocks.KENDALIUM_STAIRS.get()), blockTexture(ModBlocks.KENDALIUM_BLOCK.get()));
+        slabBlock(((SlabBlock) ModBlocks.KENDALIUM_SLAB.get()), blockTexture(ModBlocks.KENDALIUM_BLOCK.get()), blockTexture(ModBlocks.KENDALIUM_BLOCK.get()));
+        buttonBlock(((ButtonBlock) ModBlocks.KENDALIUM_BUTTON.get()), blockTexture(ModBlocks.KENDALIUM_BLOCK.get()));
+        pressurePlateBlock(((PressurePlateBlock) ModBlocks.KENDALIUM_PRESSURE_PLATE.get()), blockTexture(ModBlocks.KENDALIUM_BLOCK.get()));
+        fenceBlock(((FenceBlock) ModBlocks.KENDALIUM_FENCE.get()), blockTexture(ModBlocks.KENDALIUM_BLOCK.get()));
+        fenceGateBlock(((FenceGateBlock) ModBlocks.KENDALIUM_FENCE_GATE.get()), blockTexture(ModBlocks.KENDALIUM_BLOCK.get()));
+        wallBlock(((WallBlock) ModBlocks.KENDALIUM_WALL.get()), blockTexture(ModBlocks.KENDALIUM_BLOCK.get()));
+        doorBlockWithRenderType(((DoorBlock) ModBlocks.KENDALIUM_DOOR.get()), modLoc("block/kendalium_door_bottom"), modLoc("block/kendalium_door_top"), "cutout");
+        trapdoorBlockWithRenderType(((TrapDoorBlock) ModBlocks.KENDALIUM_TRAPDOOR.get()), modLoc("block/kendalium_trapdoor"), true, "cutout");
+
+
+
+
+
+
     }
 
     private void blockWithItem(RegistryObject<Block> blockRegistryObject) {
